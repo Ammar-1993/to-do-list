@@ -1,7 +1,7 @@
 export type Task = {
     id: number;
     completed: boolean;
-    text: string;
+    title: string;
 };
 
 export type TaskList = Task[];
