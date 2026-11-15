@@ -1,7 +1,7 @@
 function Content(){
     return(
         <div>
-            <div className="todo">To Do List</div>
+            <div className="todo">ToDo List</div>
         </div>
     )
 }
